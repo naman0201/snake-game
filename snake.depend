@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1386420876 source:h:\online c project\snake\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 h:\online c project\snake\conio2.h
+	<conio.h>
+	<windows.h>
+
+1612484966 source:h:\online c project\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"snakeheader.h"
+
+1612482212 h:\online c project\snake\snakeheader.h
+
+1612484904 source:h:\online c project\snake\snkaedef.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"snakeheader.h"
+
+1612485370 source:h:\online c project\snake\snakedef.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"snakeheader.h"
+
+1386420876 source:h:\online c project\snake game\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 h:\online c project\snake game\conio2.h
+	<conio.h>
+	<windows.h>
+
+1612485370 source:h:\online c project\snake game\snakedef.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"snakeheader.h"
+
+1612482212 h:\online c project\snake game\snakeheader.h
+
+1612485725 source:h:\online c project\snake game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"snakeheader.h"
+
